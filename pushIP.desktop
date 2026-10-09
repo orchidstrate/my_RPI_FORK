@@ -1,4 +1,4 @@
 [Desktop entry]
 Name = PushIP
-Exec=Ixterminal -e /home/hellreyser/Documents/git/my_RPI/scripts/push_my_IP.sh
+Exec=lxterminal -e /home/hellreyser/Documents/git/my_RPI_FORK/scripts/push_my_IP.sh
 Type=Application
